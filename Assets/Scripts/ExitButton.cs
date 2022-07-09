@@ -10,6 +10,7 @@ public class ExitButton : MonoBehaviour
 
     public void onClick()
     {
+        Level.levelComplexity = -1;
         SceneManager.LoadScene("MainMenu");
     }
 }
