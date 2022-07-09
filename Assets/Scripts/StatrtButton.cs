@@ -7,10 +7,33 @@ using UnityEngine.UI;
 public class StatrtButton : MonoBehaviour
 {
     public Button startButton;
-    public static void onClick()
+
+    //ToggleGroup toggleGroupInstance;
+
+    //void Start()
+    //{
+    //    toggleGroupInstance = GetComponent<ToggleGroup>();
+    //}
+
+    //public void SetComplexity()
+    //{
+    //    toggleGroupInstance = GetComponent<ToggleGroup>();
+    //    Debug.Log(toggleGroupInstance.name);
+    //    var toggles = toggleGroupInstance.GetComponentsInChildren<Toggle>();
+    //    for(int i = 0; i< toggles.Length; i++)
+    //    {
+    //        if (toggles[i].isOn)
+    //        {
+    //            Level.levelComplexity = i + 1;
+    //            Debug.Log($"comlexity = {Level.levelComplexity}");
+    //            return;
+    //        }
+    //    }
+    //}
+    public void onClick()
     {
-        //SceneManager.LoadScene("gameplay");
-        Level.levelComplexity = 0;
+        
+        //SetComplexity();
         Level.CreateLevel();
     }
 }
