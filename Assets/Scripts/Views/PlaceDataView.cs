@@ -13,8 +13,7 @@ public class PlaceDataView : MonoBehaviour
     public void AssignData(PlaceData placeData)
     {
         this.placeData = placeData;
-        description.text = placeData.Author + "\n" + placeData.Name;
-        Sprite img = Resources.Load<Sprite>("img/" + placeData.imageName);
-        image.sprite = img;
+        description.text = placeData.Description;
+        image.sprite = placeData.image;
     }
 }

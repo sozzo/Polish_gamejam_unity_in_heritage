@@ -9,8 +9,7 @@ public class PlaceData : ScriptableObject
     public string Author;
     public string Name;
     public string Date;
-    //public Sprite image;
-    public string imageName;
+    public Sprite image;
     public string Description;
 
 }
