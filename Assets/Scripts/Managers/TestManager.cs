@@ -9,6 +9,7 @@ public class TestManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
         InjectReferences();
     }
     [ContextMenu("Display data")]

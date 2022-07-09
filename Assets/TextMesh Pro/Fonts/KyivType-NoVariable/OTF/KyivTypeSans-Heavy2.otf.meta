@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7027db94440f694438e1655af61dc5b9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - KyivType Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70204323cd2733846b65ab56a2d29ca5, type: 3}
+  - {fileID: 12800000, guid: 00ff4972d28d38145938e9ec15ba200a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

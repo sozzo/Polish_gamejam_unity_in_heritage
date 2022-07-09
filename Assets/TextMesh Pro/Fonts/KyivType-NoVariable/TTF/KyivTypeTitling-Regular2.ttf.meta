@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: e4664efbccfa5874c9029f989db32058
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - KyivType Titling
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3134c4013c71e0343a4e08d72105040b, type: 3}
+  - {fileID: 12800000, guid: e39d2b57a104045489a026d5e697e0ea, type: 3}
+  - {fileID: 12800000, guid: 934c12426b21fa449b6cfb642f496d0c, type: 3}
+  - {fileID: 12800000, guid: 8046e644697f8244cb3d613fc84cac80, type: 3}
+  - {fileID: 12800000, guid: 1205bb91f4e4c5347a7aafae486c71ea, type: 3}
+  - {fileID: 12800000, guid: 5182031402aac50449500d7ccfd1ff53, type: 3}
+  - {fileID: 12800000, guid: e410f7a467b73fc4eb750bc61922a5b8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
